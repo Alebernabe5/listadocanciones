@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "notalk",
+        "url": "https://raw.githubusercontent.com/Alebernabe5/listadocanciones/refs/heads/main/notalk.mp3"
+    },
+    {
+        "nombre": "tellme",
+        "url": "https://raw.githubusercontent.com/Alebernabe5/listadocanciones/refs/heads/main/tellme.mp3"
+    },
+    {
+        "nombre": "theme",
+        "url": "https://raw.githubusercontent.com/Alebernabe5/listadocanciones/refs/heads/main/theme.mp3"
+    }
+]
