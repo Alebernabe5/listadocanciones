@@ -1,4 +1,5 @@
-[
+{
+"data":[
     {
         "nombre": "notalk",
         "url": "https://raw.githubusercontent.com/Alebernabe5/listadocanciones/refs/heads/main/notalk.mp3"
@@ -12,3 +13,4 @@
         "url": "https://raw.githubusercontent.com/Alebernabe5/listadocanciones/refs/heads/main/theme.mp3"
     }
 ]
+}
